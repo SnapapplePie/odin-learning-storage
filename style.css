@@ -38,7 +38,7 @@ p {
     padding: 20px;
   }
 
-  a:link {
+  a:link, a:active, a:visited {
     color:white;
   }
 
