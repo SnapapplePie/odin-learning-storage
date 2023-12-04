@@ -38,6 +38,12 @@ p {
     padding: 20px;
   }
 
+  .img-logo {
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
   a:link, a:active, a:visited {
     color:white;
   }
